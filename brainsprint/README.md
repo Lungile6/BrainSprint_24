@@ -2,8 +2,6 @@
 
 A modern, cross-platform mobile application for interactive learning and quiz-based education. Built with Flutter, BrainSprint provides an engaging platform for users to test their knowledge, track progress, and enhance their learning experience.
 
-![BrainSprint Banner](https://via.placeholder.com/1200x400/6C63FF/FFFFFF?text=BrainSprint+App)  
-*Screenshot: BrainSprint in action*
 
 ## ✨ Features
 
